@@ -1,0 +1,18 @@
+
+/*------------------------------------------------------------------------------------*/
+
+  Description: To document changes per feature update for developers when fetching latest.
+
+/*------------------------------------------------------------------------------------*/
+
+
+
+
++ Change log v1
+
+
+Date: February 3th 2018
+
+  - Ensure to have mongoose node connector, express, ejs installed
+    - Commands:
+        - npm install -g mongoose express ejs
